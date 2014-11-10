@@ -1,0 +1,14 @@
+{
+  "name": "curator-endless",
+  "homepage": "https://github.com/curatorAL/curator-endless-pagination",
+  "version": "",
+  "_release": "",
+  "_resolution": {
+    "type": "version",
+    "tag": "",
+    "commit": "eb0825bf75dc1cf09023ac4ae0996dfa80b1413d"
+  },
+  "_source": "git://github.com/curatorAL/curator-endless-pagination.git",
+  "_target": "",
+  "_originalSource": "frankban/django-endless-pagination"
+}
